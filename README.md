@@ -14,6 +14,12 @@ A console-based hotel management application written in **Python** with a **MySQ
 - **Reports** - room status, current guests, today's collection, monthly collection
 - **Settings** - hotel name, address, phone, email, GST % and service tax %, stored in the database
 
+## Screenshots
+
+![Main menu](docs/screenshots/Screenshot%202026-11-13%20170837.png)
+![Bill](docs/screenshots/bill.png)
+![Report](docs/screenshots/report.png)
+
 ## Tech stack
 
 | Part | Technology |
