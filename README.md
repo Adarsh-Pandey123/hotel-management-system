@@ -16,8 +16,13 @@ A console-based hotel management application written in **Python** with a **MySQ
 
 ## Screenshots
 
+### Main menu
 ![Main menu](docs/screenshots/Screenshot%202026-11-13%20170858.png)
+
+### Bill
 ![Bill](docs/screenshots/Screenshot%202026-11-13%20171812.png)
+
+### Report
 ![Report](docs/screenshots/Screenshot%202026-11-13%20171910.png)
 
 ## Tech stack
